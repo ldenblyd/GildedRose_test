@@ -153,5 +153,4 @@ describe("Gilded Rose", function () {
     expect(items[0].quality).to.equal(0);
   });
 
-  //   console.log(items[0]);
 });
